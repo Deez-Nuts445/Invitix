@@ -1,0 +1,7 @@
+site_name: My Docs
+theme:
+  language: en 
+  palette:
+    scheme: slate
+  name: material
+  
